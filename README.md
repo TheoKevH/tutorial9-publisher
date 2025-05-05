@@ -17,3 +17,7 @@ run?
 program, what does it mean?
 
 <p align="justify">It means that the publisher and subscriber use the same message broker to communicate.</p>
+
+## My screenshot of running the RabbitMQ
+
+![Running RabbitMQ](static/images/rabbitmq.png)
