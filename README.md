@@ -21,3 +21,9 @@ program, what does it mean?
 ## My screenshot of running the RabbitMQ
 
 ![Running RabbitMQ](static/images/rabbitmq.png)
+
+## Running cargo run from the consol
+
+![Console](static/images/console.png)
+
+When running, the publisher sent 5 data to the message broker.
