@@ -27,3 +27,9 @@ program, what does it mean?
 ![Console](static/images/console.png)
 
 When running, the publisher sent 5 data to the message broker.
+
+## RabbitMQ Browser
+
+![Activity](static/images/activity.png)
+
+In the RabbitMQ browser, the spikes in the chart shows the message rates. In the dashboard, it shows the number of messages sent in a 1 minute interval, which caused it to spike because I did cargo run twice.
